@@ -6,6 +6,7 @@ import Apropos from "./a-propos.jsx";
 import Contact from "./contact.jsx";
 import Experiences from "./experiences.jsx";
 import Maintenance from "./maintenance.jsx";
+import "../src/style/global.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(

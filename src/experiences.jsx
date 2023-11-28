@@ -1,11 +1,10 @@
 import Layout from "./component/layout/layout.jsx";
 
-function Apropos() {
+const Experiences = () => {
   return (
     <Layout>
-      <h1>a propos</h1>
+      <h1>Page expériences</h1>
     </Layout>
   );
-}
-
-export default Apropos;
+};
+export default Experiences;

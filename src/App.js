@@ -6,6 +6,7 @@ function App() {
   // le rendu navigateur
   return (
     <Layout>
+      {/* children */}
       <div className="App">bonjour: {toto}</div>
       <div className="App">toto</div>
     </Layout>
